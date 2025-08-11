@@ -37,7 +37,7 @@ image not having the camera data i.e. the image has been exported from a softwar
 
 ## 🖼️ Screenshots
 
-!\[Basic info](C:/Users/itism/Documents/CHRIST NOTES/Cyber Security/Tools/Exif tool/exif1.png)
-!\[Used software info](C:/Users/itism/Documents/CHRIST NOTES/Cyber Security/Tools/Exif tool/exif2.png)
-!\[Image technical info](C:/Users/itism/Documents/CHRIST NOTES/Cyber Security/Tools/Exif tool/exif3.png)
+!\[Basic info](images/exif1.png)
+!\[Used software info](images/exif2.png)
+!\[Image technical info](images/exif3.png)
 
