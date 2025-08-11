@@ -38,6 +38,8 @@ image not having the camera data i.e. the image has been exported from a softwar
 ## 🖼️ Screenshots
 
 !\[Basic info](images/exif1.png)
+
 !\[Used software info](images/exif2.png)
+
 !\[Image technical info](images/exif3.png)
 
