@@ -16,12 +16,12 @@ attacker VM. Now we can execute any arbitrary commands and gather information as
 - User: itism
 
 ## 🔎 Enumeration Performed
-```powershell
+powershell
 whoami
 ipconfig
 systeminfo
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 ![First evidence](screenshots/vil1.png)
 ![whoami](screenshots/vil2.png)
 ![Session evidence](screenshots/vil3.png)
